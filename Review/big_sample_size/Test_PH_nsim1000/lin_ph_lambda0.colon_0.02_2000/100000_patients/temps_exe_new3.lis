@@ -1,0 +1,89 @@
+Heure debut
+[1] "Mon Jul 18 12:25:28 2016"
+Heure debut 
+[1] "Mon Jul 18 12:25:30 2016"
+Numero Fichier 
+[1] 1
+[1] 100000     31
+      Ident sexe    annee      age age.entier annee.entier agec tpspotmax cens.admin     runif.T1           T1        T2   DureeDeVie tpspot etat cause
+59994 59994    2 2000.288 73.46447         73         2000    3        23       2013 3.135786e-05 6.103516e-05 14.409742 6.103516e-05     13    1     1
+95752 95752    1 1990.979 82.76404         82         1990   12        23       2013 5.405187e-05 7.556818e-05  1.030137 7.556818e-05     23    1     1
+32462 32462    2 1991.401 70.13481         70         1991    0        23       2013 4.993705e-05 8.872394e-05 20.306964 8.872394e-05     22    1     1
+73504 73504    2 1993.542 84.25914         84         1993   14        23       2013 1.000112e-04 1.346999e-04  1.155706 1.346999e-04     20    1     1
+32080 32080    1 1993.291 70.07763         70         1993    0        23       2013 8.074823e-05 1.437134e-04 19.260949 1.437134e-04     20    1     1
+53992 53992    1 1990.193 65.19025         65         1990   -5        23       2013 8.614268e-05 1.694805e-04  4.247078 1.694805e-04     23    1     1
+         SUIVI.J     SUIVI.M     SUIVI.A AGE.DIAG.A AGE.DIAG.J AGEC.DIAG.A AGEC.DIAG.J ANNEE.DIAG.A ANNEE.DIAG.J ANNEEC.DIAG.A ANNEEC.DIAG.J IDENPAT SEXE
+59994 0.02229248 0.000732422 0.000061035         73   26662.52           3     1095.72         2000     730480.0            40      14609.60   59994    2
+95752 0.02760052 0.000906818 0.000075568         82   29949.68          12     4382.88         1990     726827.6            30      10957.20   95752    1
+32462 0.03240553 0.001064687 0.000088724         70   25566.80           0        0.00         1991     727192.8            31      11322.44   32462    2
+73504 0.04919779 0.001616399 0.000134700         84   30680.16          14     5113.36         1993     727923.3            33      12052.92   73504    2
+32080 0.05248990 0.001724561 0.000143713         70   25566.80           0        0.00         1993     727923.3            33      12052.92   32080    1
+53992 0.06190106 0.002033766 0.000169481         65   23740.60          -5    -1826.20         1990     726827.6            30      10957.20   53992    1
+      ETAT CAUSE
+59994    1     1
+95752    1     1
+32462    1     1
+73504    1     1
+32080    1     1
+53992    1     1
+
+Temps uniques...
+[1]  59058 100000
+Time difference of 0.04680014 secs
+
+Modele ML
+Deviance = 1016432 Iterations - 1
+Deviance = 730768.9 Iterations - 2
+Deviance = 663208.8 Iterations - 3
+Deviance = 653758.3 Iterations - 4
+Deviance = 653116.8 Iterations - 5
+Deviance = 653106.2 Iterations - 6
+Deviance = 653106.1 Iterations - 7
+Deviance = 653106.1 Iterations - 8
+Deviance = 1057506 Iterations - 1
+Deviance = 758735.3 Iterations - 2
+Deviance = 688147.8 Iterations - 3
+Deviance = 679360.9 Iterations - 4
+Deviance = 679135.6 Iterations - 5
+Deviance = 679135.6 Iterations - 6
+iter :  1 
+ thetaold=  -0.6822 -2.62 1.2332 -1.2638 0.088 0.0203 
+ theta=  -0.6886 -2.5989 1.2212 -1.2512 0.087 0.0203 
+ abs((theta-thetaold)/thetaold)=  0.00928 0.00803 0.00973 0.00996 0.01181 1e-05 
+ ll-llold=  -151838 
+ loglik.excess.rate.fp.ml.v4.vagec(theta)=  -151837 
+ 
+iter :  2 
+ thetaold=  -0.6886 -2.5989 1.2212 -1.2512 0.087 0.0203 
+ theta=  -0.6886 -2.5989 1.2212 -1.2512 0.087 0.0203 
+ abs((theta-thetaold)/thetaold)=  2e-05 1e-05 1e-05 1e-05 0 0 
+ ll-llold=  0 
+ loglik.excess.rate.fp.ml.v4.vagec(theta)=  -151837 
+ 
+Time difference of 2.90004 mins
+
+Ajout de la colonne MUA
+Time difference of 0.6552 secs
+
+Preparation (1)
+Time difference of 1.0452 secs
+
+Preparation (2)
+Time difference of 48.8748 secs
+
+Taux de base 
+Time difference of 0.01559997 secs
+
+Score et Hessienne 
+Time difference of 4.564836 mins
+
+Simulation 
+[1] 0.627
+
+ +++++++++++++++++++++++++++++++ Temps exe test PH +++++++++++++++++++++ !! 
+Time difference of 5.623557 mins
+[1] "2016-07-18 12:34:02 CEST"
+[1] 0.627
+
+Temps total
+Time difference of 8.565977 mins
