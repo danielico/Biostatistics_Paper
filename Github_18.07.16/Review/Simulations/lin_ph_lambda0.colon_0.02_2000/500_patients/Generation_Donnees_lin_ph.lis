@@ -1,0 +1,52 @@
+[1] "Manu-PC"
+[1] "2016-07-16 18:30:33 EDT"
+Heure debut 
+[1] "Sat Jul 16 18:30:33 2016"
+
+ simulation du fichier i [1] " 1"
+[1] "2016-07-16 18:30:46 EDT"
+
+ simulation du fichier i [1] " 2"
+[1] "2016-07-16 18:31:28 EDT"
+
+ simulation du fichier i [1] " 3"
+[1] "2016-07-16 18:32:05 EDT"
+
+ simulation du fichier i [1] " 4"
+[1] "2016-07-16 18:32:41 EDT"
+
+ simulation du fichier i [1] " 5"
+[1] "2016-07-16 18:33:16 EDT"
+
+ simulation du fichier i [1] " 6"
+[1] "2016-07-16 18:33:51 EDT"
+
+ simulation du fichier i [1] " 7"
+[1] "2016-07-16 18:34:26 EDT"
+
+ simulation du fichier i [1] " 8"
+[1] "2016-07-16 18:35:02 EDT"
+
+ simulation du fichier i [1] " 9"
+[1] "2016-07-16 18:35:37 EDT"
+
+ simulation du fichier i [1] " 10"
+[1] "2016-07-16 18:36:18 EDT"
+
+ Fin de la simulation des donnees 
+NULL
+[1] "Sat Jul 16 18:36:54 2016"
+
+ SURVIE THEORIQUE DE LA POPULATION 
+NULL
+  temps    Survie
+1     1 0.8006763
+2     3 0.6513289
+3     5 0.5795701
+4    10 0.5096216
+[1] "2016-07-16 18:36:54 EDT"
+
+ 
+ Durée du programme en heure 
+NULL
+Time difference of 0.10574 hours
